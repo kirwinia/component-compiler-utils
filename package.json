@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/component-compiler-utils.git"
+    "url": "git+https://github.com/kirwinia/component-compiler-utils.git"
   },
   "keywords": [
     "vue",
@@ -36,9 +36,9 @@
   "author": "Evan You",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuejs/component-compiler-utils/issues"
+    "url": "https://github.com/kirwinia/component-compiler-utils/issues"
   },
-  "homepage": "https://github.com/vuejs/component-compiler-utils#readme",
+  "homepage": "https://github.com/kirwinia/component-compiler-utils#readme",
   "devDependencies": {
     "@types/jest": "^22.2.3",
     "@types/node": "^10.12.20",
